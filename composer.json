@@ -1,0 +1,20 @@
+{
+    "name": "walnutloyalty/nameclaim",
+    "authors": [
+        {
+            "name": "Bickkert1",
+            "email": "biko@famschouten.com"
+        }
+    ],
+    "description": "this is a nameclaim",
+    "require": {
+        
+    },
+    "type": "library",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            
+        }
+    }
+}
